@@ -8,7 +8,7 @@ The name of the corporation is {{corporation-name}} (the "Corporation").
 
 # Article II
 
-The address of the Corporation's registered office in the State of Delaware is {{office-address}}, in the City of {{office-city}}, County of {{office-county}}, ZIP code {{office-zip}}. The name of its registered agent at that address is {{agent-name}}.
+The address of the Corporation's registered office in the State of Delaware is {{office-address}}, {{office-city}}, {{office-county}} County, Delaware {{office-zip}}. The name of its registered agent at that office is {{agent-name}}.
 
 # Article III
 
