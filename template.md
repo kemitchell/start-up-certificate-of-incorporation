@@ -32,7 +32,7 @@ Elections of directors need not be by written ballot unless otherwise provided i
 
 # Article VIII
 
-(A) To the fullest extent permitted by the General Corporation Law of Delaware, as the same exists or as may hereafter be amended, a director of the Corporation shall not be personally liable to the Corporation or its stockholders for monetary damages for breach of fiduciary duty as a director.
+(A) To the fullest extent permitted by the General Corporation Law of Delaware, as the same exists or as may hereafter be amended, no director of the Corporation shall be personally liable to the Corporation or its stockholders for monetary damages for breach of fiduciary duty as a director.
 
 (B) The Corporation shall indemnify to the fullest extent permitted by law any person made or threatened to be made a party to an action or proceeding, whether criminal, civil, administrative or investigative, by reason of the fact that he, his testator or intestate was a director or officer of the Corporation or any predecessor of the Corporation, or serves or served at any other enterprise as a director or officer at the request of the Corporation or any predecessor to the Corporation.
 
