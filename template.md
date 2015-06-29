@@ -53,6 +53,16 @@ subtitle: "{{corporation.name}}"
 
     <!--- Fenwick's certificate does not address indemnification. -->
 
+9. Unless the corporation consents in writing to the selection of an alternative forum, the Court of Chancery of the State of Delaware shall be the exclusive forum for:
+
+    - any derivative proceeding brought on behalf of the corporation
+
+    - any proceeding asserting breach of fiduciary duty owed by a director or officer of the corporation to the corporation or its stockholders
+
+    - any proceeding asserting a claim against the corporation related to any provision of the General Corporation Law of Delaware, the corporation's certificate of incorporation, or the corporation's bylaws
+
+    - any proceeding asserting a claim against the corporation governed by the internal affairs doctrine
+
 <!--- Default Rules -->
 
 <!--- DGCL 102(b)(5): provision limiting the duration of the corporation's existence ... otherwise ... perpetual -->
