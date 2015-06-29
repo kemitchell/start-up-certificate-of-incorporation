@@ -48,7 +48,7 @@ The name and mailing address of the incorporator are as follows:
 
 ---
 
-Executed on {{date}}
+Signed {{date}}
 
 /s/ {{incorporator-name}}  
 {{incorporator-name}}, Incorporator
