@@ -1,0 +1,139 @@
+{ "agent-name": {
+    "description": "name of the corporation's registered agent",
+    "schema": {
+      "type": "string",
+      "minLength": 1 },
+    "example": "Corporation Service Company" },
+  "authorized-shares-digits": {
+    "description": "number of shares the corporation is authorized to issue, in digits",
+    "schema": {
+      "type": "integer",
+      "minimum": 1 },
+    "example": 10000000 },
+  "authorized-shares-words": {
+    "description": "number of shares the corporation is authorized to issue, in words",
+    "schema": {
+      "type": "string",
+      "minLength": 3 },
+    "example": "ten million" },
+  "corporation-name": {
+    "description": "name of the corporation",
+    "schema": {
+      "type": "string",
+      "minLength": 3 },
+    "example": "NewCo, Inc." },
+  "date": {
+    "description": "date the certificate is executed",
+    "schema": {
+      "type": "string",
+      "format": "date-time" },
+    "example": "2015-01-01" },
+  "incorporator-address": {
+    "description": "incorporator's street address",
+    "schema": {
+      "type": "string",
+      "minLength": 1 },
+    "example": "1 Main Street" },
+  "incorporator-city": {
+    "description": "incorporator's city",
+    "schema": {
+      "type": "string",
+      "minLength": 1 },
+    "example": "San Francisco" },
+  "incorporator-name": {
+    "description": "incorporator's name",
+    "schema": {
+      "type": "string",
+      "minLength": 1 },
+    "example": "Jane Doe" },
+  "incorporator-state": {
+    "description": "incorporator's state",
+    "schema": {
+      "enum": [
+        "Alabama",
+        "Alaska",
+        "Arizona",
+        "Arkansas",
+        "California",
+        "Colorado",
+        "Connecticut",
+        "Delaware",
+        "Florida",
+        "Georgia",
+        "Hawaii",
+        "Idaho",
+        "Illinois Indiana",
+        "Iowa",
+        "Kansas",
+        "Kentucky",
+        "Louisiana",
+        "Maine",
+        "Maryland",
+        "Massachusetts",
+        "Michigan",
+        "Minnesota",
+        "Mississippi",
+        "Missouri",
+        "Montana Nebraska",
+        "Nevada",
+        "New Hampshire",
+        "New Jersey",
+        "New Mexico",
+        "New York",
+        "North Carolina",
+        "North Dakota",
+        "Ohio",
+        "Oklahoma",
+        "Oregon",
+        "Pennsylvania Rhode Island",
+        "South Carolina",
+        "South Dakota",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin",
+        "Wyoming" ] },
+    "example": "California" },
+  "incorporator-zip": {
+    "description": "incorporator's ZIP code",
+    "schema": {
+      "type": "integer",
+      "minimum": 10000,
+      "maximum": 99999 },
+    "example": "94103" },
+  "office-address": {
+    "description": "corporation's registered office street address",
+    "schema": {
+      "type": "string",
+      "minLength": 1 },
+    "example": "2711 Centerville Road #400" },
+  "office-city": {
+    "description": "corporation's registered office city",
+    "schema": {
+      "type": "string",
+      "minLength": 1 },
+    "example": "Wilmington" },
+  "office-county": {
+    "description": "corporation's registered office county",
+    "schema": {
+      "enum": [
+        "New Castle",
+        "Kent",
+        "Sussex" ] },
+    "example": "New Castle" },
+  "office-zip": {
+    "description": "corporation's registered office ZIP code",
+    "schema": {
+      "type": "integer",
+      "minimum": 10000,
+      "maximum": 99999 },
+    "example": "95814" },
+  "par-value": {
+    "description": "par value of common stock, in dollars",
+    "schema": {
+      "type": "number" },
+    "example": "0.00001" } }
