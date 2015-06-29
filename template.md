@@ -20,11 +20,11 @@ The Corporation shall have authority to issue {{authorized-shares}} total shares
 
 # Article V
 
-In furtherance of and not in limitation of the powers conferred by the laws of the State of Delaware, the Board of Directors of the Corporation is expressly authorized to make, amend or repeal Bylaws of the Corporation.
+In furtherance of and not in limitation of the powers conferred by statute, the Board of Directors of the Corporation is expressly authorized to make, alter, or repeal the bylaws of the Corporation.
 
 # Article VI
 
-The business and affairs of the Corporation shall be managed by or under the direction of the Board of Directors. Elections of directors need not be by written ballot unless otherwise provided in the Bylaws of the Corporation.
+The business and affairs of the Corporation shall be managed by or under the direction of the Board of Directors. Elections of directors need not be by written ballot unless otherwise provided in the bylaws of the Corporation.
 
 # Article VII
 
