@@ -63,6 +63,10 @@ subtitle: "{{corporation.name}}"
 
     - any proceeding asserting a claim against the corporation governed by the internal affairs doctrine
 
+    <!--- Boilermakers Local 154 Retirement Fund v. Chevron, 73 A.3d 934 (Del. Ch. 2013) --> 
+    
+    <!--- City of Providence v. First Citizens Bancshares, 99 A.3d 229 (Del. Ch. 2014) -->
+
 <!--- Default Rules -->
 
 <!--- DGCL 102(b)(5): provision limiting the duration of the corporation's existence ... otherwise ... perpetual -->
