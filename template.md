@@ -67,6 +67,8 @@ subtitle: "{{corporation.name}}"
     
     <!--- City of Providence v. First Citizens Bancshares, 99 A.3d 229 (Del. Ch. 2014) -->
 
+10. This certificate grants rights to stockholders subject to the corporation's right to amend and repeal any provision of this certificate as prescribed by statute.
+
 <!--- Default Rules -->
 
 <!--- DGCL 102(b)(5): provision limiting the duration of the corporation's existence ... otherwise ... perpetual -->
