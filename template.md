@@ -31,15 +31,11 @@ subtitle: "{{corporation.name}}"
  
     <!--- DGCL 102(a)(5): name and mailing address of the incorporator or incorporators -->
 
-    <!--- DGCL 102(b)(5): provision limiting the duration of the corporation's existence ... otherwise ... perpetual -->
-
 6. In furtherance of and not in limitation of the powers conferred by statute, the Board of Directors of the corporation is expressly authorized to adopt, amend, or repeal bylaws of the corporation.
 
     <!--- DGCL 109: ... any corporation may, in its certificate of incorporation, confer the power to adopt, amend or repeal bylaws upon the directors ... -->
     
 7. Elections of directors need not be by written ballot unless otherwise provided in the bylaws of the corporation.
-
-    <!-- DGCL 141(a): The business and affairs of the corporation shall be managed by or under the direction of the Board of Directors, except ... certificate of incorporation ... -->
 
 8.  (A) To the fullest extent permitted by the General Corporation Law of Delaware, as the same exists or as may hereafter be amended, no director of the corporation shall be personally liable to the corporation or its stockholders for monetary damages for breach of fiduciary duty as a director.
 
@@ -48,6 +44,20 @@ subtitle: "{{corporation.name}}"
     (C) Neither any amendment nor repeal of this section 8, nor the adoption of any provision of the corporation's Certificate of Incorporation inconsistent with this section 8, shall eliminate or reduce the effect of this section 8 in respect of any matter occurring, or any action or proceeding accruing or arising or that, but for this section 8, would accrue or arise, prior to such amendment, repeal, or adoption of an inconsistent provision.
 
     <!--- DGCL 102(b)(7) -->
+
+    <!--- See http://calcorporatelaw.com/2012/11/some-observations-on-indemnification-provisions-in-articles-of-incorporation/ -->
+
+    <!--- Orrick's certificate includes indemnification. -->
+
+    <!--- Cooley's certificate includes indemnification. -->
+
+    <!--- Fenwick's certificate does not include indemnification. -->
+
+<!--- Default Rules -->
+
+<!--- DGCL 102(b)(5): provision limiting the duration of the corporation's existence ... otherwise ... perpetual -->
+
+<!--- DGCL 141(a): The business and affairs of the corporation shall be managed by or under the direction of the Board of Directors, except ... certificate of incorporation ... -->
 
 ---
 
