@@ -1,6 +1,7 @@
 ---
-title: "Certificate of Incorporation"
-subtitle: "{{corporation.name}}"
+title: "Original Certificate of Incorporation"
+author: "{{corporation.name}}"
+date: "{{date}}"
 ---
 
 1. The name of the corporation is {{corporation-name}}.
