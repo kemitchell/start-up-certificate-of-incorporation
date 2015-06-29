@@ -74,7 +74,8 @@ date: "{{date}}"
 
 <!--- DGCL 141(a): The business and affairs of the corporation shall be managed by or under the direction of the Board of Directors, except ... certificate of incorporation ... -->
 
-Signed {{date}}
-
+Signed {{date}}  
+  
+  
 /s/ {{incorporator-name}}  
 {{incorporator-name}}, sole incorporator
