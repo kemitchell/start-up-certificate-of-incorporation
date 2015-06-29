@@ -24,17 +24,21 @@ In furtherance of and not in limitation of the powers conferred by statute, the 
 
 # Article VI
 
-The business and affairs of the Corporation shall be managed by or under the direction of the Board of Directors. Elections of directors need not be by written ballot unless otherwise provided in the bylaws of the Corporation.
+The business and affairs of the Corporation shall be managed by or under the direction of the Board of Directors.
 
 # Article VII
+
+Elections of directors need not be by written ballot unless otherwise provided in the bylaws of the Corporation.
+
+# Article VIII
 
 (A) To the fullest extent permitted by the General Corporation Law of Delaware, as the same exists or as may hereafter be amended, a director of the Corporation shall not be personally liable to the Corporation or its stockholders for monetary damages for breach of fiduciary duty as a director.
 
 (B) The Corporation shall indemnify to the fullest extent permitted by law any person made or threatened to be made a party to an action or proceeding, whether criminal, civil, administrative or investigative, by reason of the fact that he, his testator or intestate was a director or officer of the Corporation or any predecessor of the Corporation, or serves or served at any other enterprise as a director or officer at the request of the Corporation or any predecessor to the Corporation.
 
-(C) Neither any amendment nor repeal of this Article VII, nor the adoption of any provision of the Corporation's Certificate of Incorporation inconsistent with this Article VII, shall eliminate or reduce the effect of this Article VII in respect of any matter occurring, or any action or proceeding accruing or arising or that, but for this Article VII, would accrue or arise, prior to such amendment, repeal or adoption of an inconsistent provision.
+(C) Neither any amendment nor repeal of this Article VIII, nor the adoption of any provision of the Corporation's Certificate of Incorporation inconsistent with this Article VIII, shall eliminate or reduce the effect of this Article VIII in respect of any matter occurring, or any action or proceeding accruing or arising or that, but for this Article VIII, would accrue or arise, prior to such amendment, repeal or adoption of an inconsistent provision.
 
-# Article VIII
+# Article IX
 
 The name and mailing address of the incorporator are as follows:
 
