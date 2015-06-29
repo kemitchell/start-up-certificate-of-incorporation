@@ -24,7 +24,7 @@ date: "{{date}}"
 
     <!--- DGCL 102(a)(4): the par value of each of such shares -->
 
-5. The name and mailing address of the sole incorporator are as follows:
+5. The name and mailing address of the sole incorporator are:
 
     {{incorporator-name}}  
     {{incorporator-address}}  
