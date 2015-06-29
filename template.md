@@ -37,21 +37,21 @@ subtitle: "{{corporation.name}}"
     
 7. Elections of directors need not be by written ballot unless otherwise provided in the bylaws of the corporation.
 
-8.  (A) To the fullest extent permitted by the General Corporation Law of Delaware, as the same exists or as may hereafter be amended, no director of the corporation shall be personally liable to the corporation or its stockholders for monetary damages for breach of fiduciary duty as a director.
+8. The liability of directors of the corporation for monetary damages shall be eliminated to the fullest legal extent. If applicable law is amended to authorize corporate action to further eliminate such liability after the stockholders approve this section, such liability shall be eliminated to that further extent.
 
-    (B) The corporation shall indemnify to the fullest extent permitted by law any person made or threatened to be made a party to an action or proceeding, whether criminal, civil, administrative, or investigative, by reason of the fact that he, his testator or intestate was a director or officer of the corporation or any predecessor of the corporation, or serves or served at any other enterprise as a director or officer at the request of the corporation or any predecessor to the corporation.
+    By agreement, stockholder vote, distinterested director vote, or otherwise, the corporation is authorized to indemnify and advance expenses to its directors, officers, and agents, as well as others applicable law permits the corporation to indemnify, in excess of what is otherwise permitted by law.
 
-    (C) Neither any amendment nor repeal of this section 8, nor the adoption of any provision of the corporation's Certificate of Incorporation inconsistent with this section 8, shall eliminate or reduce the effect of this section 8 in respect of any matter occurring, or any action or proceeding accruing or arising or that, but for this section 8, would accrue or arise, prior to such amendment, repeal, or adoption of an inconsistent provision.
+    Changes to this section 8 shall only affect limitation of liability, indemnification, and advancement of expenses related to proceedings concerning subsequent acts or omissions.
 
     <!--- DGCL 102(b)(7) -->
 
     <!--- See http://calcorporatelaw.com/2012/11/some-observations-on-indemnification-provisions-in-articles-of-incorporation/ -->
 
-    <!--- Orrick's certificate includes indemnification. -->
+    <!--- Orrick's certificate requires indemnification. -->
 
-    <!--- Cooley's certificate includes indemnification. -->
+    <!--- Cooley's certificate allows indemnification and advancement expenses. -->
 
-    <!--- Fenwick's certificate does not include indemnification. -->
+    <!--- Fenwick's certificate does not address indemnification. -->
 
 <!--- Default Rules -->
 
