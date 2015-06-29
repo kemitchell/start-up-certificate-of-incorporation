@@ -36,7 +36,7 @@ Elections of directors need not be by written ballot unless otherwise provided i
 
 (B) The Corporation shall indemnify to the fullest extent permitted by law any person made or threatened to be made a party to an action or proceeding, whether criminal, civil, administrative or investigative, by reason of the fact that he, his testator or intestate was a director or officer of the Corporation or any predecessor of the Corporation, or serves or served at any other enterprise as a director or officer at the request of the Corporation or any predecessor to the Corporation.
 
-(C) Neither any amendment nor repeal of this Article VIII, nor the adoption of any provision of the Corporation's Certificate of Incorporation inconsistent with this Article VIII, shall eliminate or reduce the effect of this Article VIII in respect of any matter occurring, or any action or proceeding accruing or arising or that, but for this Article VIII, would accrue or arise, prior to such amendment, repeal or adoption of an inconsistent provision.
+(C) Neither any amendment nor repeal of this Article VIII, nor the adoption of any provision of the Corporation's Certificate of Incorporation inconsistent with this Article VIII, shall eliminate or reduce the effect of this Article VIII in respect of any matter occurring, or any action or proceeding accruing or arising or that, but for this Article VIII, would accrue or arise, prior to such amendment, repeal, or adoption of an inconsistent provision.
 
 # Article IX
 
