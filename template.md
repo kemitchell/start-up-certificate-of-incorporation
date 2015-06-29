@@ -37,11 +37,11 @@ subtitle: "{{corporation.name}}"
     
 7. Elections of directors need not be by written ballot unless otherwise provided in the bylaws of the corporation.
 
-8. The liability of directors of the corporation for monetary damages shall be eliminated to the fullest legal extent. If applicable law is amended to authorize corporate action to further eliminate such liability after the stockholders approve this section, such liability shall be eliminated to that further extent.
+8.  1. The liability of directors of the corporation for monetary damages shall be eliminated to the fullest legal extent. If applicable law is amended to authorize corporate action to further eliminate such liability after the stockholders approve this section, such liability shall be eliminated to that further extent.
 
-    By agreement, stockholder vote, distinterested director vote, or otherwise, the corporation is authorized to indemnify and advance expenses to its directors, officers, and agents, as well as others applicable law permits the corporation to indemnify, in excess of what is otherwise permitted by law.
+    2. By agreement, stockholder vote, distinterested director vote, or otherwise, the corporation is authorized to indemnify and advance expenses to its directors, officers, and agents, as well as others applicable law permits the corporation to indemnify, in excess of what is otherwise permitted by law.
 
-    Changes to this section 8 shall only affect limitation of liability, indemnification, and advancement of expenses related to proceedings concerning subsequent acts or omissions.
+    3. Changes to this section 8 shall only affect limitation of liability, indemnification, and advancement of expenses related to proceedings concerning subsequent acts or omissions.
 
     <!--- DGCL 102(b)(7) -->
 
@@ -55,13 +55,13 @@ subtitle: "{{corporation.name}}"
 
 9. Unless the corporation consents in writing to the selection of an alternative forum, the Court of Chancery of the State of Delaware shall be the exclusive forum for:
 
-    - any derivative proceeding brought on behalf of the corporation
+    1. any derivative proceeding brought on behalf of the corporation
 
-    - any proceeding asserting breach of fiduciary duty owed by a director or officer of the corporation to the corporation or its stockholders
+    2. any proceeding asserting breach of fiduciary duty owed by a director or officer of the corporation to the corporation or its stockholders
 
-    - any proceeding asserting a claim against the corporation related to any provision of the General Corporation Law of Delaware, the corporation's certificate of incorporation, or the corporation's bylaws
+    3. any proceeding asserting a claim against the corporation related to any provision of the General Corporation Law of Delaware, the corporation's certificate of incorporation, or the corporation's bylaws
 
-    - any proceeding asserting a claim against the corporation governed by the internal affairs doctrine
+    4. any proceeding asserting a claim against the corporation governed by the internal affairs doctrine
 
     <!--- Boilermakers Local 154 Retirement Fund v. Chevron, 73 A.3d 934 (Del. Ch. 2013) --> 
     
