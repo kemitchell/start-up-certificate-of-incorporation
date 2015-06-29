@@ -33,8 +33,10 @@ subtitle: "{{corporation.name}}"
 
     <!--- DGCL 102(b)(5): provision limiting the duration of the corporation's existence ... otherwise ... perpetual -->
 
-6. In furtherance of and not in limitation of the powers conferred by statute, the Board of Directors of the corporation is expressly authorized to make, alter, or repeal the bylaws of the corporation.
+6. In furtherance of and not in limitation of the powers conferred by statute, the Board of Directors of the corporation is expressly authorized to adopt, amend, or repeal bylaws of the corporation.
 
+    <!--- DGCL 109: ... any corporation may, in its certificate of incorporation, confer the power to adopt, amend or repeal bylaws upon the directors ... -->
+    
 7. Elections of directors need not be by written ballot unless otherwise provided in the bylaws of the corporation.
 
     <!-- DGCL 141(a): The business and affairs of the corporation shall be managed by or under the direction of the Board of Directors, except ... certificate of incorporation ... -->
