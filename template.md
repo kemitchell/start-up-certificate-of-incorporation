@@ -52,4 +52,4 @@ subtitle: "{{corporation.name}}"
 Signed {{date}}
 
 /s/ {{incorporator-name}}  
-{{incorporator-name}}, Incorporator
+{{incorporator-name}}, sole incorporator
