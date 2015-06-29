@@ -4,18 +4,12 @@
       "type": "string",
       "minLength": 1 },
     "example": "Corporation Service Company" },
-  "authorized-shares-digits": {
-    "description": "number of shares the corporation is authorized to issue, in digits",
+  "authorized-shares": {
+    "description": "number of shares the corporation is authorized to issue",
     "schema": {
       "type": "integer",
       "minimum": 1 },
     "example": 10000000 },
-  "authorized-shares-words": {
-    "description": "number of shares the corporation is authorized to issue, in words",
-    "schema": {
-      "type": "string",
-      "minLength": 3 },
-    "example": "ten million" },
   "corporation-name": {
     "description": "name of the corporation",
     "schema": {

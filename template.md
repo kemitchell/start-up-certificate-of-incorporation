@@ -16,7 +16,7 @@ The purpose of the Corporation is to engage in any lawful act or activity for wh
 
 # Article IV
 
-The aggregate number of shares which the Corporation shall have authority to issue is {{authorized-shares-words}} ({{authorized-shares-digits}}) shares of capital stock all of which shall be designated "Common Stock" and have a par value of ${{par-value}} per share.
+The aggregate number of shares which the Corporation shall have authority to issue is {{authorized-shares}} shares of capital stock all of which shall be designated "Common Stock" and have a par value of ${{par-value}} per share.
 
 # Article V
 
