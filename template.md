@@ -38,7 +38,9 @@ date: "{{date}}"
     
 7. Elections of directors need not be by written ballot unless otherwise provided in the bylaws of the corporation.
 
-8.  1. The liability of directors of the corporation for monetary damages shall be eliminated to the fullest legal extent. If applicable law is amended to authorize corporate action to further eliminate such liability after the stockholders approve this section, such liability shall be eliminated to that further extent.
+8. <!-- -->
+
+    1. The liability of directors of the corporation for monetary damages shall be eliminated to the fullest legal extent. If applicable law is amended to authorize corporate action to further eliminate such liability after the stockholders approve this section, such liability shall be eliminated to that further extent.
 
     2. By agreement, stockholder vote, disinterested director vote, or otherwise, the corporation is authorized to indemnify and advance expenses to its directors, officers, and agents, as well as others applicable law permits the corporation to indemnify, in excess of what is otherwise permitted by law.
 
