@@ -125,7 +125,7 @@
       "type": "integer",
       "minimum": 10000,
       "maximum": 99999 },
-    "example": "95814" },
+    "example": "19808" },
   "par-value": {
     "description": "par value of common stock, in dollars",
     "schema": {
